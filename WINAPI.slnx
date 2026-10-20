@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WINAPI/WINAPI.vcxproj" Id="666a05ec-aff5-46b4-94bf-890f7677108a" />
+</Solution>
